@@ -1,4 +1,0 @@
-Tom##123456##vip
-Jane##123456##vip
-Lucy##123456##vip
-Bob##123456##vip
